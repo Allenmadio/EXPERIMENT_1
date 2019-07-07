@@ -27,6 +27,6 @@ int main()
 
 	cout << "Total number of sales: " << a * 250 + b * 100 + c * 50 + d * 25 << setprecision(2) << fixed <<endl;
 
-
+	getch();
 	return 0;
 }
